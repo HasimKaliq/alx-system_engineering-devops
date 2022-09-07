@@ -1,1 +1,2 @@
-#!/bin/bashm -r *js
+#!/bin/bash
+ find . -name *js - delete

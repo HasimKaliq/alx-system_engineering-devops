@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /usr/tmp
+./ls_cwd_content

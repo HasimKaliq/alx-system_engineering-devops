@@ -1,2 +1,1 @@
-#!/bin/bash
-.cd ./ls_cwd_content
+cd ./ls_cwd_content

@@ -1,2 +1,2 @@
-echo #!/bin/bash
-file type /tmp/iamfile
+#!inash
+echo file /tmp/iamafile

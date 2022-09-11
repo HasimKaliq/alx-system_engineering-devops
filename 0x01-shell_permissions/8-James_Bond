@@ -1,2 +1,2 @@
 #!/bin/bash
-echo chmod u -rwx g -rwx a +rwx hello
+echo chmod u -r-w-x g -r-w-x a +r+w+x hello

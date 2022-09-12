@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m 'done using a script that I wrote, Alhamdullahi.'
+git push

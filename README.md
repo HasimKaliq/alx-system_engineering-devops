@@ -1,1 +1,2 @@
-0x03 is worked with alias
+The shell script "basher" was written to save me a few lines of commands, i noticed a huge amount of repetition in the git commands, especially when I had to add, commit and push, the solution to "automate" the process by a simple run of the script "basher" all my commands were run, the only exception is the commit message is always the same and I still have to pass in my password.
+Lesson here is Hurray!! For Automation.

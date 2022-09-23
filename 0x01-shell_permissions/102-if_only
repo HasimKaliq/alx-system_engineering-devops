@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo -R --from=guillaume betty hello 
+
